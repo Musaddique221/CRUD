@@ -1,6 +1,7 @@
 # CRUD
 
-#usage
+# Usage
+
 $ git clone https://github.com/Musaddique221/CRUD.git
 
 $ cd frontend or backend
